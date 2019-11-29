@@ -9,3 +9,11 @@
 **Lab 3:** Navigation
 
 **Lab 4:** Localization
+
+**Final project:** Design and construct a robot that can autonomously navigate a closed course and launch a set of ping-pong balls into a bin residing at a known location outside the perimeter.
+
+Sofia Dieguez: Project Manager
+Marie Guertin: Documentation Manager
+Lukas Durand: Hardware Lead
+Yi Heng Liu: Software Lead
+Karl Michael Koerich: Testing Lead
