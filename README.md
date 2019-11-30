@@ -20,7 +20,7 @@ Design and construct a robot that can autonomously navigate a closed course and 
 
 **Sofia Dieguez:** Project Manager
 
-**Marie Guertin:*** Documentation Manager
+**Marie Guertin:** Documentation Manager
 
 **Lukas Durand:** Hardware Lead
 
