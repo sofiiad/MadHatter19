@@ -1,16 +1,6 @@
 # MadHatter19
 
-*Team 19* common repo for our lab code.
-
-## Labs
-
-**Lab 1:** Wall Following
-
-**Lab 2:** Odometry
-
-**Lab 3:** Navigation
-
-**Lab 4:** Localization
+*Team 19* repo
 
 ## **Final project:** 
 
@@ -27,3 +17,13 @@ Design and construct a robot that can autonomously navigate a closed course and 
 **Yi Heng Liu:** Software Lead
 
 **Karl Michael Koerich:** Testing Lead
+
+## Labs
+
+**Lab 1:** Wall Following
+
+**Lab 2:** Odometry
+
+**Lab 3:** Navigation
+
+**Lab 4:** Localization
